@@ -31,8 +31,6 @@ function inputValidation() {
     newsletter.classList.add("remove");
     thanksSec.classList.add("show");
   }
-
-  console.log(testPatern);
 }
 
 function showUserEmail() {
