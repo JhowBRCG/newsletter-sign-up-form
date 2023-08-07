@@ -1,0 +1,47 @@
+@use "variables" as *;
+
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
+
+* {
+  box-sizing: 0;
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  text-decoration: none;
+  font-size: 1.6rem;
+  font-family: $main-font;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  background: $charcoal-grey;
+  padding: 1rem;
+}
+
+main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+input {
+  display: block;
+  border: 0;
+  outline: none;
+  cursor: pointer;
+}
+
+button {
+  border: 0;
+  background: none;
+  cursor: pointer;
+}
+
+img {
+  width: 100%;
+  min-height: 100%;
+}

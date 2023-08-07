@@ -1,0 +1,25 @@
+@use "variables" as *;
+
+@mixin main-button {
+  background: $dark-slate-grey;
+  padding: 1.6rem 0rem;
+  border-radius: 5px;
+  color: $white;
+  transition: all 200ms ease;
+
+  &:hover {
+    background: $tomato;
+  }
+}
+
+@mixin medium-devices {
+  @media screen and (max-width: 768px) {
+    @content;
+  }
+}
+
+@mixin small-devices {
+  @media screen and (max-width: 425px) {
+    @content;
+  }
+}
