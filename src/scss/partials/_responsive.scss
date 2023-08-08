@@ -19,4 +19,18 @@
       max-width: 100%;
     }
   }
+
+  .thanks-message {
+    border-radius: 0;
+    width: 100%;
+    min-height: 50vh;
+
+    &__content {
+      position: relative;
+      button {
+        position: absolute;
+        bottom: -20vh;
+      }
+    }
+  }
 }
