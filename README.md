@@ -7,7 +7,7 @@
 
 ## About the Project
 
-This is a project from [Frontend Mentor](https://www.frontendmentor.io/challenges/newsletter-signup-form-with-success-message-3FC1AZbNrv) with the goal to make a Newsletter section totally responsive and with validations for the email input.
+This is a project from [Frontend Mentor](https://www.frontendmentor.io/challenges/newsletter-signup-form-with-success-message-3FC1AZbNrv) with the goal of make a Newsletter section totally responsive and with validations for the email input.
 
 ### The validations for the email input:
 
@@ -33,7 +33,7 @@ This is a project from [Frontend Mentor](https://www.frontendmentor.io/challenge
 
 <br>
 
-<h3 align = 'center'><a href = 'https://jhowbrcg.github.io/advice-generator-app/'>See the project</a></h3>
+<h3 align = 'center'><a href = 'https://jhowbrcg.github.io/newsletter-sign-up-form/'>See the project</a></h3>
 
 <div align= 'left'>
 
